@@ -1797,7 +1797,7 @@
 - number: "163"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
